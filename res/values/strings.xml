@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Clasilmor Chess</string>
-    <string name="hello_world">Sup, ho?</string>
+    <string name="hello_world">Hello world, motherfucker!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
